@@ -1,8 +1,8 @@
-2023/09/28-19:58:22.294 1248 Recovering log #278
-2023/09/28-19:58:22.428 1248 Delete type=0 #278
-2023/09/28-19:58:22.428 1248 Delete type=3 #276
-2023/09/28-23:43:41.181 3684 Level-0 table #283: started
-2023/09/28-23:43:41.181 3684 Level-0 table #283: 0 bytes OK
-2023/09/28-23:43:41.239 3684 Delete type=0 #281
-2023/09/28-23:43:41.423 3684 Manual compaction at level-0 from '!actors!01hoT0l1aJIMTwvI' @ 72057594037927935 : 1 .. '!folders!yNN3qzGLEktCfUQ8' @ 0 : 0; will stop at (end)
-2023/09/28-23:43:41.425 3684 Manual compaction at level-1 from '!actors!01hoT0l1aJIMTwvI' @ 72057594037927935 : 1 .. '!folders!yNN3qzGLEktCfUQ8' @ 0 : 0; will stop at (end)
+2023/10/11-18:06:30.642 3ad0 Recovering log #414
+2023/10/11-18:06:30.730 3ad0 Delete type=0 #414
+2023/10/11-18:06:30.730 3ad0 Delete type=3 #412
+2023/10/11-18:13:54.331 459c Level-0 table #419: started
+2023/10/11-18:13:54.331 459c Level-0 table #419: 0 bytes OK
+2023/10/11-18:13:54.371 459c Delete type=0 #417
+2023/10/11-18:13:54.400 459c Manual compaction at level-0 from '!actors!01hoT0l1aJIMTwvI' @ 72057594037927935 : 1 .. '!folders!yNN3qzGLEktCfUQ8' @ 0 : 0; will stop at (end)
+2023/10/11-18:13:54.400 459c Manual compaction at level-1 from '!actors!01hoT0l1aJIMTwvI' @ 72057594037927935 : 1 .. '!folders!yNN3qzGLEktCfUQ8' @ 0 : 0; will stop at (end)
