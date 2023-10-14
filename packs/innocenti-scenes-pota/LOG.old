@@ -1,18 +1,8 @@
-2023/10/11-18:06:32.776 3ad0 Recovering log #352
-2023/10/11-18:06:32.812 3ad0 Delete type=0 #352
-2023/10/11-18:06:32.812 3ad0 Delete type=3 #350
-2023/10/11-18:13:55.107 459c Level-0 table #357: started
-2023/10/11-18:13:55.137 459c Level-0 table #357: 58467 bytes OK
-2023/10/11-18:13:55.167 459c Delete type=0 #355
-2023/10/11-18:13:55.167 459c Manual compaction at level-0 from '!folders!4FLF2dloSD44n8i3' @ 72057594037927935 : 1 .. '!scenes.walls!ygX9H5uvBGDUAQnh.zsInKcX5QSpbjlEo' @ 0 : 0; will stop at (end)
-2023/10/11-18:13:55.168 459c Manual compaction at level-1 from '!folders!4FLF2dloSD44n8i3' @ 72057594037927935 : 1 .. '!scenes.walls!ygX9H5uvBGDUAQnh.zsInKcX5QSpbjlEo' @ 0 : 0; will stop at '!scenes.walls!Ax3Kud1N7Umvnq5V.zuiL1OVYy3760YsC' @ 14857 : 1
-2023/10/11-18:13:55.168 459c Compacting 1@1 + 2@2 files
-2023/10/11-18:13:55.283 459c Generated table #358@1: 1947 keys, 2122212 bytes
-2023/10/11-18:13:55.375 459c Generated table #359@1: 4220 keys, 2126906 bytes
-2023/10/11-18:13:55.414 459c Generated table #360@1: 649 keys, 43308 bytes
-2023/10/11-18:13:55.414 459c Compacted 1@1 + 2@2 files => 4292426 bytes
-2023/10/11-18:13:55.432 459c compacted to: files[ 0 0 4 0 0 0 0 ]
-2023/10/11-18:13:55.432 459c Delete type=2 #327
-2023/10/11-18:13:55.439 459c Delete type=2 #328
-2023/10/11-18:13:55.446 459c Delete type=2 #357
-2023/10/11-18:13:55.583 459c Manual compaction at level-1 from '!scenes.walls!Ax3Kud1N7Umvnq5V.zuiL1OVYy3760YsC' @ 14857 : 1 .. '!scenes.walls!ygX9H5uvBGDUAQnh.zsInKcX5QSpbjlEo' @ 0 : 0; will stop at (end)
+2023/10/14-19:43:21.079 107c Recovering log #365
+2023/10/14-19:43:21.256 107c Delete type=0 #365
+2023/10/14-19:43:21.256 107c Delete type=3 #363
+2023/10/14-19:43:45.981 1634 Level-0 table #370: started
+2023/10/14-19:43:45.981 1634 Level-0 table #370: 0 bytes OK
+2023/10/14-19:43:46.041 1634 Delete type=0 #368
+2023/10/14-19:43:46.251 1634 Manual compaction at level-0 from '!folders!4FLF2dloSD44n8i3' @ 72057594037927935 : 1 .. '!scenes.walls!ygX9H5uvBGDUAQnh.zsInKcX5QSpbjlEo' @ 0 : 0; will stop at (end)
+2023/10/14-19:43:46.252 1634 Manual compaction at level-1 from '!folders!4FLF2dloSD44n8i3' @ 72057594037927935 : 1 .. '!scenes.walls!ygX9H5uvBGDUAQnh.zsInKcX5QSpbjlEo' @ 0 : 0; will stop at (end)
