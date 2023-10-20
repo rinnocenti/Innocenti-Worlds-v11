@@ -1,18 +1,8 @@
-2023/10/14-21:21:48.427 47a0 Recovering log #16
-2023/10/14-21:21:48.610 47a0 Delete type=0 #16
-2023/10/14-21:21:48.610 47a0 Delete type=3 #14
-2023/10/14-21:36:02.120 4a80 Level-0 table #21: started
-2023/10/14-21:36:02.233 4a80 Level-0 table #21: 1861356 bytes OK
-2023/10/14-21:36:02.299 4a80 Delete type=0 #19
-2023/10/14-21:37:29.632 4a80 Level-0 table #23: started
-2023/10/14-21:37:29.904 4a80 Level-0 table #23: 517 bytes OK
-2023/10/14-21:37:29.960 4a80 Delete type=0 #20
-2023/10/14-21:37:30.676 4a80 Manual compaction at level-0 from '!folders!650QU7EBBZpKQ1BY' @ 72057594037927935 : 1 .. '!scenes.walls!zipxK8NjTveminmk.zWncwWoO6UjEnDA7' @ 0 : 0; will stop at (end)
-2023/10/14-21:37:31.301 4a80 Manual compaction at level-1 from '!folders!650QU7EBBZpKQ1BY' @ 72057594037927935 : 1 .. '!scenes.walls!zipxK8NjTveminmk.zWncwWoO6UjEnDA7' @ 0 : 0; will stop at '!folders!650QU7EBBZpKQ1BY' @ 9606 : 1
-2023/10/14-21:37:31.315 4a80 Compacting 1@1 + 1@2 files
-2023/10/14-21:37:31.452 4a80 Generated table #24@1: 9605 keys, 1861349 bytes
-2023/10/14-21:37:31.452 4a80 Compacted 1@1 + 1@2 files => 1861349 bytes
-2023/10/14-21:37:31.500 4a80 compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/10/14-21:37:31.500 4a80 Delete type=2 #21
-2023/10/14-21:37:31.501 4a80 Delete type=2 #23
-2023/10/14-21:37:32.730 4a80 Manual compaction at level-1 from '!folders!650QU7EBBZpKQ1BY' @ 9606 : 1 .. '!scenes.walls!zipxK8NjTveminmk.zWncwWoO6UjEnDA7' @ 0 : 0; will stop at (end)
+2023/10/19-15:11:19.846 2e14 Recovering log #80
+2023/10/19-15:11:19.934 2e14 Delete type=0 #80
+2023/10/19-15:11:19.934 2e14 Delete type=3 #79
+2023/10/19-15:15:32.891 3cd8 Level-0 table #84: started
+2023/10/19-15:15:32.891 3cd8 Level-0 table #84: 0 bytes OK
+2023/10/19-15:15:32.928 3cd8 Delete type=0 #82
+2023/10/19-15:15:32.984 3cd8 Manual compaction at level-0 from '!folders!650QU7EBBZpKQ1BY' @ 72057594037927935 : 1 .. '!scenes.walls!zipxK8NjTveminmk.zWncwWoO6UjEnDA7' @ 0 : 0; will stop at (end)
+2023/10/19-15:15:32.984 3cd8 Manual compaction at level-1 from '!folders!650QU7EBBZpKQ1BY' @ 72057594037927935 : 1 .. '!scenes.walls!zipxK8NjTveminmk.zWncwWoO6UjEnDA7' @ 0 : 0; will stop at (end)
