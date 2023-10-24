@@ -12,12 +12,12 @@
     "maximum": "11"
   },
   "description": "Compendiums Para meus mundos configurados",
-  "download": "https://github.com/rinnocenti/innocenti-worlds/archive/master.zip",
+  "download": "https://github.com/rinnocenti/Innocenti-Worlds-v11/archive/master.zip",
   "esmodules": [
     "main.js"
   ],
   "id": "innocenti-worlds",
-  "manifest": "https://raw.githubusercontent.com/rinnocenti/innocenti-worlds/master/module.json",
+  "manifest": "https://raw.githubusercontent.com/rinnocenti/Innocenti-Worlds-v11/master/module.json",
   "packFolders": [
     {
       "name": "Innocenti's Worlds'",
@@ -463,6 +463,6 @@
     }
   ],
   "title": "Innocenti Wolrds",
-  "url": "https://github.com/rinnocenti/innocenti-worlds",
-  "version": "11.0.15"
+  "url": "https://github.com/rinnocenti/Innocenti-Worlds-v11",
+  "version": "11.0.16"
 }

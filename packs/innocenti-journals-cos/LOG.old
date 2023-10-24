@@ -1,7 +1,3 @@
-2023/10/19-15:11:16.636 3ab0 Recovering log #443
-2023/10/19-15:11:16.682 3ab0 Delete type=0 #443
-2023/10/19-15:11:16.682 3ab0 Delete type=3 #442
-2023/10/19-15:15:32.487 3cd8 Level-0 table #447: started
-2023/10/19-15:15:32.487 3cd8 Level-0 table #447: 0 bytes OK
-2023/10/19-15:15:32.503 3cd8 Delete type=0 #445
-2023/10/19-15:15:32.520 3cd8 Manual compaction at level-0 from '!folders!CM9kwM0S5zoKsGop' @ 72057594037927935 : 1 .. '!journal.pages!ynCceGdrrTSQ28XY.PrVrZ1m2IsIVwc19' @ 0 : 0; will stop at (end)
+2023/10/24-00:53:36.317 399c Recovering log #476
+2023/10/24-00:53:36.369 399c Delete type=0 #476
+2023/10/24-00:53:36.369 399c Delete type=3 #474
